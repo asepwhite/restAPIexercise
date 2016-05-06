@@ -1,0 +1,58 @@
+{	
+   "produk1" : {
+      "nama" : "dress1",
+	  "size" : "2",
+	  "color" : "merah",
+	  "price" : 100,
+	  "id": 1
+   },
+   "produk2" : {
+      "nama" : "celana1",
+	  "size" : "2",
+	  "color" : "cokelat",
+	  "price" : 120,
+	  "id": 2
+   },
+   "produk3" : {
+      "nama" : "topi1",
+	  "size" : "1",
+	  "color" : "biru",
+	  "price" : 50,
+	  "id": 3
+   },
+   "produk4" : {
+      "nama" : "dress2",
+	  "size" : "2",
+	  "color" : "cokelat",
+	  "price" : 200,
+	  "id": 4
+   },
+   "produk5" : {
+      "nama" : "dress3",
+	  "size" : "3",
+	  "color" : "hijau",
+	  "price" : 200,
+	  "id": 5
+   },
+   "produk6" : {
+      "nama" : "rok1",
+	  "size" : "1",
+	  "color" : "merah",
+	  "price" : 70,
+	  "id": 6
+   },
+   "produk7" : {
+      "nama" : "tas1",
+	  "size" : "5",
+	  "color" : "hitam",
+	  "price" : 75,
+	  "id": 7
+   },
+   "produk8" : {
+      "nama" : "sepatu1",
+	  "size" : "4",
+	  "color" : "merah",
+	  "price" : 125,
+	  "id": 8
+   }
+}	
